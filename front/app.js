@@ -1,7 +1,5 @@
 // ******************   Déclaration de variable   ******************
 const boxes = ['banane.png', 'cerise.png', 'citron.png', 'fraise.png', 'framboise.png', 'orange.png', 'pastèque.png', 'pomme.png']; // Tableau avec liste des fruits
-// const boxes = ['banane.png']; // Tableau avec liste des fruits
-
 const game = {}; // Objet qui stock coté navigateur les informations du jeu (tableau, selection, temps de jeu ...)
 
 // ******************   Requete API   ******************
